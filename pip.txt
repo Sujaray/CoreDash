@@ -1,0 +1,15 @@
+django
+djangorestframework>=3.4.0
+djangorestframework-jwt
+django-anymail[mailgun]
+django-pipeline
+xhtml2pdf==0.0.6
+simplejson
+html5lib==1.0b8
+arrow
+requests
+psycopg2
+pandas
+django-uuid-upload-path
+gunicorn
+openpyxl
